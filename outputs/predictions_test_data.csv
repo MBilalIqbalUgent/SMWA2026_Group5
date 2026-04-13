@@ -1,0 +1,4 @@
+movie,month,mentions,n_posts,n_comments,avg_sentiment,positive_share,negative_share,neutral_share,avg_text_length,net_sentiment,engagement_ratio,log_mentions,hype_score,sentiment_volatility,month_date,google_hits,target_google_hits_next,pred_google_hits_lr,pred_google_hits_rf
+Deadpool & Wolverine,2025-12,2,0,2,0.5,0.5,0.0,0.5,199.0,0.5,1.0,1.0986122886681098,1.0,1.1,2025-12-01,61.0,61.375,36.77962030330631,28.7611666666666
+Dune 2,2025-12,1,0,1,1.0,1.0,0.0,0.0,577.0,1.0,1.0,0.6931471805599453,1.0,1.0,2025-12-01,33.75,57.6,80.60366464223932,35.769416666666636
+Dune 2,2026-03,1,1,0,0.0,0.0,0.0,1.0,144.0,0.0,0.0,0.6931471805599453,0.0,1.0,2026-03-01,57.6,37.5,-37.70475662018452,32.223666666666674

@@ -1,0 +1,6 @@
+feature,coefficient
+mentions_lag1,0.0
+avg_sentiment_lag1,0.0
+net_sentiment_lag1,0.0
+google_hits_lag1,0.0
+n_comments_lag1,0.0

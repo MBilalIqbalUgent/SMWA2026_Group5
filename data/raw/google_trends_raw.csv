@@ -1,213 +1,487 @@
-date,hits,keyword,geo,time,gprop,category,movie
-2025-04-06,48,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-13,48,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-20,61,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-27,58,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-04,54,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-11,48,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-18,43,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-25,37,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-01,43,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-08,44,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-15,44,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-22,49,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-29,42,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-06,51,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-13,50,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-20,65,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-27,71,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-03,78,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-10,100,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-17,88,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-24,64,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-31,67,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-07,65,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-14,51,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-21,54,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-28,53,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-05,51,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-12,45,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-19,58,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-26,48,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-02,46,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-09,50,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-16,46,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-23,51,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-30,58,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-07,52,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-14,57,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-21,58,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-28,64,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-04,53,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-11,66,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-18,64,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-25,67,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-01,63,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-08,76,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-15,70,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-22,56,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-01,50,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-08,42,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-15,62,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-22,91,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-29,70,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-04-05,66,Deadpool & Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-06,74,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-13,79,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-20,83,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-27,100,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-04,82,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-11,78,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-18,67,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-05-25,78,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-01,68,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-08,68,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-15,70,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-22,64,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-06-29,64,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-06,70,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-13,75,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-20,78,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-07-27,88,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-03,86,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-10,78,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-17,76,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-24,72,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-08-31,65,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-07,62,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-14,60,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-21,61,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-09-28,61,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-05,55,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-12,52,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-19,57,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-10-26,52,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-02,50,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-09,53,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-16,51,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-23,53,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-11-30,57,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-07,54,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-14,58,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-21,68,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-12-28,77,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-04,77,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-11,74,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-18,74,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-01-25,64,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-01,60,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-08,58,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-15,58,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-02-22,50,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-01,54,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-08,48,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-15,56,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-22,60,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-03-29,62,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2026-04-05,58,Deadpool Wolverine,,2025-04-12 2026-04-11,,0,Deadpool & Wolverine
-2025-04-06,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-13,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-20,30,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-27,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-04,26,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-11,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-18,29,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-25,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-01,29,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-08,34,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-15,35,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-22,35,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-29,29,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-06,30,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-13,29,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-20,30,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-27,33,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-03,34,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-10,31,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-17,33,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-24,31,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-31,30,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-07,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-14,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-21,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-28,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-05,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-12,24,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-19,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-26,24,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-02,23,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-09,24,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-16,24,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-23,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-30,28,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-07,26,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-14,30,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-21,40,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-28,42,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-04,36,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-11,31,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-18,28,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-25,28,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-01,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-08,26,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-15,24,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-22,25,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-01,27,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-08,26,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-15,100,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-22,72,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-29,54,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2026-04-05,42,Dune 2,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-06,17,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-13,15,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-20,17,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-04-27,15,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-04,13,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-11,14,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-18,18,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-05-25,19,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-01,17,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-08,20,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-15,18,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-22,22,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-06-29,18,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-06,19,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-13,23,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-20,23,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-07-27,31,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-03,40,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-10,47,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-17,43,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-24,32,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-08-31,35,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-07,36,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-14,26,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-21,28,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-09-28,27,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-05,27,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-12,28,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-19,25,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-10-26,24,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-02,25,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-09,28,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-16,27,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-23,28,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-11-30,32,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-07,35,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-14,29,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-21,34,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2025-12-28,34,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-04,37,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-11,39,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-18,37,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-01-25,43,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-01,42,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-08,42,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-15,39,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-02-22,35,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-01,33,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-08,38,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-15,100,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-22,82,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-03-29,44,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
-2026-04-05,33,Dune Part Two,,2025-04-12 2026-04-11,,0,Dune 2
+date,movie,trend_score
+2024-02-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-07 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-11 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-12 00:00:00+00:00,Deadpool & Wolverine,1
+2024-02-13 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-14 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-15 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-16 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-17 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-18 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-19 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-20 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-21 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-22 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-23 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-24 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-25 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-26 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-27 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-28 00:00:00+00:00,Deadpool & Wolverine,0
+2024-02-29 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-07 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-11 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-12 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-13 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-14 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-15 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-16 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-17 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-18 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-19 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-20 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-21 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-22 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-23 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-24 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-25 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-26 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-27 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-28 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-29 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-30 00:00:00+00:00,Deadpool & Wolverine,0
+2024-03-31 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-07 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-11 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-12 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-13 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-14 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-15 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-16 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-17 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-18 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-19 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-20 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-21 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-22 00:00:00+00:00,Deadpool & Wolverine,1
+2024-04-23 00:00:00+00:00,Deadpool & Wolverine,1
+2024-04-24 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-25 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-26 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-27 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-28 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-29 00:00:00+00:00,Deadpool & Wolverine,0
+2024-04-30 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-07 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-11 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-12 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-13 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-14 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-15 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-16 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-17 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-18 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-19 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-20 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-21 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-22 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-23 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-24 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-25 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-26 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-27 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-28 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-29 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-30 00:00:00+00:00,Deadpool & Wolverine,0
+2024-05-31 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-07 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-11 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-12 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-13 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-14 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-15 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-16 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-17 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-18 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-19 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-20 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-21 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-22 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-23 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-24 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-25 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-26 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-27 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-28 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-29 00:00:00+00:00,Deadpool & Wolverine,0
+2024-06-30 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-01 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-02 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-03 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-04 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-05 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-06 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-07 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-08 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-09 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-10 00:00:00+00:00,Deadpool & Wolverine,0
+2024-07-11 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-12 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-13 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-14 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-15 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-16 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-17 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-18 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-19 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-20 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-21 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-22 00:00:00+00:00,Deadpool & Wolverine,1
+2024-07-23 00:00:00+00:00,Deadpool & Wolverine,3
+2024-07-24 00:00:00+00:00,Deadpool & Wolverine,5
+2024-07-25 00:00:00+00:00,Deadpool & Wolverine,6
+2024-07-26 00:00:00+00:00,Deadpool & Wolverine,8
+2024-07-27 00:00:00+00:00,Deadpool & Wolverine,8
+2024-07-28 00:00:00+00:00,Deadpool & Wolverine,8
+2024-07-29 00:00:00+00:00,Deadpool & Wolverine,6
+2024-07-30 00:00:00+00:00,Deadpool & Wolverine,6
+2024-07-31 00:00:00+00:00,Deadpool & Wolverine,5
+2024-08-01 00:00:00+00:00,Deadpool & Wolverine,5
+2024-08-02 00:00:00+00:00,Deadpool & Wolverine,6
+2024-08-03 00:00:00+00:00,Deadpool & Wolverine,6
+2024-08-04 00:00:00+00:00,Deadpool & Wolverine,6
+2024-08-05 00:00:00+00:00,Deadpool & Wolverine,5
+2024-08-06 00:00:00+00:00,Deadpool & Wolverine,4
+2024-08-07 00:00:00+00:00,Deadpool & Wolverine,4
+2024-08-08 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-09 00:00:00+00:00,Deadpool & Wolverine,4
+2024-08-10 00:00:00+00:00,Deadpool & Wolverine,5
+2024-08-11 00:00:00+00:00,Deadpool & Wolverine,5
+2024-08-12 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-13 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-14 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-15 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-16 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-17 00:00:00+00:00,Deadpool & Wolverine,4
+2024-08-18 00:00:00+00:00,Deadpool & Wolverine,4
+2024-08-19 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-20 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-21 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-22 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-23 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-24 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-25 00:00:00+00:00,Deadpool & Wolverine,3
+2024-08-26 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-27 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-28 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-29 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-30 00:00:00+00:00,Deadpool & Wolverine,2
+2024-08-31 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-01 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-02 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-03 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-04 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-05 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-06 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-07 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-08 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-09 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-10 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-11 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-12 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-13 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-14 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-15 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-16 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-17 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-18 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-19 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-20 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-21 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-22 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-23 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-24 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-25 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-26 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-27 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-28 00:00:00+00:00,Deadpool & Wolverine,2
+2024-09-29 00:00:00+00:00,Deadpool & Wolverine,1
+2024-09-30 00:00:00+00:00,Deadpool & Wolverine,1
+2024-02-01 00:00:00+00:00,Dune 2,4
+2024-02-02 00:00:00+00:00,Dune 2,5
+2024-02-03 00:00:00+00:00,Dune 2,6
+2024-02-04 00:00:00+00:00,Dune 2,7
+2024-02-05 00:00:00+00:00,Dune 2,5
+2024-02-06 00:00:00+00:00,Dune 2,5
+2024-02-07 00:00:00+00:00,Dune 2,6
+2024-02-08 00:00:00+00:00,Dune 2,7
+2024-02-09 00:00:00+00:00,Dune 2,7
+2024-02-10 00:00:00+00:00,Dune 2,8
+2024-02-11 00:00:00+00:00,Dune 2,9
+2024-02-12 00:00:00+00:00,Dune 2,7
+2024-02-13 00:00:00+00:00,Dune 2,10
+2024-02-14 00:00:00+00:00,Dune 2,8
+2024-02-15 00:00:00+00:00,Dune 2,10
+2024-02-16 00:00:00+00:00,Dune 2,21
+2024-02-17 00:00:00+00:00,Dune 2,18
+2024-02-18 00:00:00+00:00,Dune 2,15
+2024-02-19 00:00:00+00:00,Dune 2,11
+2024-02-20 00:00:00+00:00,Dune 2,11
+2024-02-21 00:00:00+00:00,Dune 2,15
+2024-02-22 00:00:00+00:00,Dune 2,17
+2024-02-23 00:00:00+00:00,Dune 2,17
+2024-02-24 00:00:00+00:00,Dune 2,19
+2024-02-25 00:00:00+00:00,Dune 2,22
+2024-02-26 00:00:00+00:00,Dune 2,26
+2024-02-27 00:00:00+00:00,Dune 2,33
+2024-02-28 00:00:00+00:00,Dune 2,37
+2024-02-29 00:00:00+00:00,Dune 2,46
+2024-03-01 00:00:00+00:00,Dune 2,77
+2024-03-02 00:00:00+00:00,Dune 2,100
+2024-03-03 00:00:00+00:00,Dune 2,99
+2024-03-04 00:00:00+00:00,Dune 2,68
+2024-03-05 00:00:00+00:00,Dune 2,50
+2024-03-06 00:00:00+00:00,Dune 2,46
+2024-03-07 00:00:00+00:00,Dune 2,40
+2024-03-08 00:00:00+00:00,Dune 2,45
+2024-03-09 00:00:00+00:00,Dune 2,62
+2024-03-10 00:00:00+00:00,Dune 2,61
+2024-03-11 00:00:00+00:00,Dune 2,37
+2024-03-12 00:00:00+00:00,Dune 2,30
+2024-03-13 00:00:00+00:00,Dune 2,27
+2024-03-14 00:00:00+00:00,Dune 2,23
+2024-03-15 00:00:00+00:00,Dune 2,28
+2024-03-16 00:00:00+00:00,Dune 2,39
+2024-03-17 00:00:00+00:00,Dune 2,41
+2024-03-18 00:00:00+00:00,Dune 2,25
+2024-03-19 00:00:00+00:00,Dune 2,21
+2024-03-20 00:00:00+00:00,Dune 2,19
+2024-03-21 00:00:00+00:00,Dune 2,18
+2024-03-22 00:00:00+00:00,Dune 2,20
+2024-03-23 00:00:00+00:00,Dune 2,30
+2024-03-24 00:00:00+00:00,Dune 2,30
+2024-03-25 00:00:00+00:00,Dune 2,20
+2024-03-26 00:00:00+00:00,Dune 2,16
+2024-03-27 00:00:00+00:00,Dune 2,17
+2024-03-28 00:00:00+00:00,Dune 2,17
+2024-03-29 00:00:00+00:00,Dune 2,20
+2024-03-30 00:00:00+00:00,Dune 2,22
+2024-03-31 00:00:00+00:00,Dune 2,22
+2024-04-01 00:00:00+00:00,Dune 2,18
+2024-04-02 00:00:00+00:00,Dune 2,14
+2024-04-03 00:00:00+00:00,Dune 2,12
+2024-04-04 00:00:00+00:00,Dune 2,11
+2024-04-05 00:00:00+00:00,Dune 2,13
+2024-04-06 00:00:00+00:00,Dune 2,23
+2024-04-07 00:00:00+00:00,Dune 2,26
+2024-04-08 00:00:00+00:00,Dune 2,17
+2024-04-09 00:00:00+00:00,Dune 2,15
+2024-04-10 00:00:00+00:00,Dune 2,14
+2024-04-11 00:00:00+00:00,Dune 2,13
+2024-04-12 00:00:00+00:00,Dune 2,13
+2024-04-13 00:00:00+00:00,Dune 2,17
+2024-04-14 00:00:00+00:00,Dune 2,16
+2024-04-15 00:00:00+00:00,Dune 2,13
+2024-04-16 00:00:00+00:00,Dune 2,15
+2024-04-17 00:00:00+00:00,Dune 2,13
+2024-04-18 00:00:00+00:00,Dune 2,11
+2024-04-19 00:00:00+00:00,Dune 2,14
+2024-04-20 00:00:00+00:00,Dune 2,19
+2024-04-21 00:00:00+00:00,Dune 2,16
+2024-04-22 00:00:00+00:00,Dune 2,10
+2024-04-23 00:00:00+00:00,Dune 2,8
+2024-04-24 00:00:00+00:00,Dune 2,7
+2024-04-25 00:00:00+00:00,Dune 2,7
+2024-04-26 00:00:00+00:00,Dune 2,9
+2024-04-27 00:00:00+00:00,Dune 2,13
+2024-04-28 00:00:00+00:00,Dune 2,13
+2024-04-29 00:00:00+00:00,Dune 2,7
+2024-04-30 00:00:00+00:00,Dune 2,6
+2024-05-01 00:00:00+00:00,Dune 2,7
+2024-05-02 00:00:00+00:00,Dune 2,5
+2024-05-03 00:00:00+00:00,Dune 2,6
+2024-05-04 00:00:00+00:00,Dune 2,9
+2024-05-05 00:00:00+00:00,Dune 2,8
+2024-05-06 00:00:00+00:00,Dune 2,6
+2024-05-07 00:00:00+00:00,Dune 2,5
+2024-05-08 00:00:00+00:00,Dune 2,4
+2024-05-09 00:00:00+00:00,Dune 2,5
+2024-05-10 00:00:00+00:00,Dune 2,5
+2024-05-11 00:00:00+00:00,Dune 2,6
+2024-05-12 00:00:00+00:00,Dune 2,7
+2024-05-13 00:00:00+00:00,Dune 2,5
+2024-05-14 00:00:00+00:00,Dune 2,5
+2024-05-15 00:00:00+00:00,Dune 2,5
+2024-05-16 00:00:00+00:00,Dune 2,5
+2024-05-17 00:00:00+00:00,Dune 2,5
+2024-05-18 00:00:00+00:00,Dune 2,6
+2024-05-19 00:00:00+00:00,Dune 2,6
+2024-05-20 00:00:00+00:00,Dune 2,5
+2024-05-21 00:00:00+00:00,Dune 2,7
+2024-05-22 00:00:00+00:00,Dune 2,6
+2024-05-23 00:00:00+00:00,Dune 2,6
+2024-05-24 00:00:00+00:00,Dune 2,6
+2024-05-25 00:00:00+00:00,Dune 2,9
+2024-05-26 00:00:00+00:00,Dune 2,10
+2024-05-27 00:00:00+00:00,Dune 2,8
+2024-05-28 00:00:00+00:00,Dune 2,5
+2024-05-29 00:00:00+00:00,Dune 2,5
+2024-05-30 00:00:00+00:00,Dune 2,5
+2024-05-31 00:00:00+00:00,Dune 2,5
+2024-06-01 00:00:00+00:00,Dune 2,6
+2024-06-02 00:00:00+00:00,Dune 2,7
+2024-06-03 00:00:00+00:00,Dune 2,5
+2024-06-04 00:00:00+00:00,Dune 2,3
+2024-06-05 00:00:00+00:00,Dune 2,3
+2024-06-06 00:00:00+00:00,Dune 2,3
+2024-06-07 00:00:00+00:00,Dune 2,4
+2024-06-08 00:00:00+00:00,Dune 2,5
+2024-06-09 00:00:00+00:00,Dune 2,5
+2024-06-10 00:00:00+00:00,Dune 2,4
+2024-06-11 00:00:00+00:00,Dune 2,3
+2024-06-12 00:00:00+00:00,Dune 2,3
+2024-06-13 00:00:00+00:00,Dune 2,3
+2024-06-14 00:00:00+00:00,Dune 2,3
+2024-06-15 00:00:00+00:00,Dune 2,4
+2024-06-16 00:00:00+00:00,Dune 2,5
+2024-06-17 00:00:00+00:00,Dune 2,3
+2024-06-18 00:00:00+00:00,Dune 2,3
+2024-06-19 00:00:00+00:00,Dune 2,3
+2024-06-20 00:00:00+00:00,Dune 2,2
+2024-06-21 00:00:00+00:00,Dune 2,3
+2024-06-22 00:00:00+00:00,Dune 2,4
+2024-06-23 00:00:00+00:00,Dune 2,4
+2024-06-24 00:00:00+00:00,Dune 2,3
+2024-06-25 00:00:00+00:00,Dune 2,2
+2024-06-26 00:00:00+00:00,Dune 2,2
+2024-06-27 00:00:00+00:00,Dune 2,2
+2024-06-28 00:00:00+00:00,Dune 2,3
+2024-06-29 00:00:00+00:00,Dune 2,3
+2024-06-30 00:00:00+00:00,Dune 2,4
+2024-07-01 00:00:00+00:00,Dune 2,2
+2024-07-02 00:00:00+00:00,Dune 2,2
+2024-07-03 00:00:00+00:00,Dune 2,2
+2024-07-04 00:00:00+00:00,Dune 2,2
+2024-07-05 00:00:00+00:00,Dune 2,2
+2024-07-06 00:00:00+00:00,Dune 2,3
+2024-07-07 00:00:00+00:00,Dune 2,4
+2024-07-08 00:00:00+00:00,Dune 2,2
+2024-07-09 00:00:00+00:00,Dune 2,2
+2024-07-10 00:00:00+00:00,Dune 2,2
+2024-07-11 00:00:00+00:00,Dune 2,2
+2024-07-12 00:00:00+00:00,Dune 2,2
+2024-07-13 00:00:00+00:00,Dune 2,3
+2024-07-14 00:00:00+00:00,Dune 2,3
+2024-07-15 00:00:00+00:00,Dune 2,2
+2024-07-16 00:00:00+00:00,Dune 2,2
+2024-07-17 00:00:00+00:00,Dune 2,2
+2024-07-18 00:00:00+00:00,Dune 2,2
+2024-07-19 00:00:00+00:00,Dune 2,2
+2024-07-20 00:00:00+00:00,Dune 2,2
+2024-07-21 00:00:00+00:00,Dune 2,3
+2024-07-22 00:00:00+00:00,Dune 2,2
+2024-07-23 00:00:00+00:00,Dune 2,2
+2024-07-24 00:00:00+00:00,Dune 2,2
+2024-07-25 00:00:00+00:00,Dune 2,2
+2024-07-26 00:00:00+00:00,Dune 2,2
+2024-07-27 00:00:00+00:00,Dune 2,2
+2024-07-28 00:00:00+00:00,Dune 2,2
+2024-07-29 00:00:00+00:00,Dune 2,2
+2024-07-30 00:00:00+00:00,Dune 2,1
+2024-07-31 00:00:00+00:00,Dune 2,1
+2024-08-01 00:00:00+00:00,Dune 2,2
+2024-08-02 00:00:00+00:00,Dune 2,2
+2024-08-03 00:00:00+00:00,Dune 2,2
+2024-08-04 00:00:00+00:00,Dune 2,2
+2024-08-05 00:00:00+00:00,Dune 2,1
+2024-08-06 00:00:00+00:00,Dune 2,1
+2024-08-07 00:00:00+00:00,Dune 2,1
+2024-08-08 00:00:00+00:00,Dune 2,1
+2024-08-09 00:00:00+00:00,Dune 2,2
+2024-08-10 00:00:00+00:00,Dune 2,2
+2024-08-11 00:00:00+00:00,Dune 2,2
+2024-08-12 00:00:00+00:00,Dune 2,1
+2024-08-13 00:00:00+00:00,Dune 2,1
+2024-08-14 00:00:00+00:00,Dune 2,1
+2024-08-15 00:00:00+00:00,Dune 2,1
+2024-08-16 00:00:00+00:00,Dune 2,1
+2024-08-17 00:00:00+00:00,Dune 2,2
+2024-08-18 00:00:00+00:00,Dune 2,2
+2024-08-19 00:00:00+00:00,Dune 2,1
+2024-08-20 00:00:00+00:00,Dune 2,1
+2024-08-21 00:00:00+00:00,Dune 2,1
+2024-08-22 00:00:00+00:00,Dune 2,1
+2024-08-23 00:00:00+00:00,Dune 2,1
+2024-08-24 00:00:00+00:00,Dune 2,2
+2024-08-25 00:00:00+00:00,Dune 2,2
+2024-08-26 00:00:00+00:00,Dune 2,1
+2024-08-27 00:00:00+00:00,Dune 2,1
+2024-08-28 00:00:00+00:00,Dune 2,1
+2024-08-29 00:00:00+00:00,Dune 2,1
+2024-08-30 00:00:00+00:00,Dune 2,1
+2024-08-31 00:00:00+00:00,Dune 2,1
+2024-09-01 00:00:00+00:00,Dune 2,2
+2024-09-02 00:00:00+00:00,Dune 2,1
+2024-09-03 00:00:00+00:00,Dune 2,1
+2024-09-04 00:00:00+00:00,Dune 2,1
+2024-09-05 00:00:00+00:00,Dune 2,1
+2024-09-06 00:00:00+00:00,Dune 2,1
+2024-09-07 00:00:00+00:00,Dune 2,2
+2024-09-08 00:00:00+00:00,Dune 2,2
+2024-09-09 00:00:00+00:00,Dune 2,1
+2024-09-10 00:00:00+00:00,Dune 2,1
+2024-09-11 00:00:00+00:00,Dune 2,1
+2024-09-12 00:00:00+00:00,Dune 2,1
+2024-09-13 00:00:00+00:00,Dune 2,1
+2024-09-14 00:00:00+00:00,Dune 2,2
+2024-09-15 00:00:00+00:00,Dune 2,2
+2024-09-16 00:00:00+00:00,Dune 2,1
+2024-09-17 00:00:00+00:00,Dune 2,1
+2024-09-18 00:00:00+00:00,Dune 2,1
+2024-09-19 00:00:00+00:00,Dune 2,1
+2024-09-20 00:00:00+00:00,Dune 2,1
+2024-09-21 00:00:00+00:00,Dune 2,2
+2024-09-22 00:00:00+00:00,Dune 2,2
+2024-09-23 00:00:00+00:00,Dune 2,1
+2024-09-24 00:00:00+00:00,Dune 2,1
+2024-09-25 00:00:00+00:00,Dune 2,1
+2024-09-26 00:00:00+00:00,Dune 2,1
+2024-09-27 00:00:00+00:00,Dune 2,1
+2024-09-28 00:00:00+00:00,Dune 2,1
+2024-09-29 00:00:00+00:00,Dune 2,2
+2024-09-30 00:00:00+00:00,Dune 2,1

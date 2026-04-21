@@ -1,4 +1,0 @@
-model,train_r2,test_r2,rmse,mae,target_variable,analysis_goal
-Baseline,,-27.3107,11425243.1474,9751413.5,weekly_box_office,predict_next_week_box_office
-Linear Regression,0.7509,-575.3508,51550603.0446,47289929.4819,weekly_box_office,predict_next_week_box_office
-Random Forest,0.6693,-19.3383,9683830.4094,8893449.7615,weekly_box_office,predict_next_week_box_office
